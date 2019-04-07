@@ -1,4 +1,4 @@
 <configuration scan="true" scanPeriod="60 seconds" debug="false">
     <contextName>myAppName</contextName>
     <!-- 其他配置省略-->
-</configuration>  
+</configuration>
